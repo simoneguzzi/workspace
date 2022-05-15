@@ -1,0 +1,6 @@
+git-secrets
+gitlab-runner
+gpg
+nvm
+pyenv
+tox
