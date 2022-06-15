@@ -1,0 +1,9 @@
+bitwarden
+firefox
+git
+pyenv
+python
+telegram
+thunderbird
+vscode
+whatsapp

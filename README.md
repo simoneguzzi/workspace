@@ -9,6 +9,19 @@
    choco install path/to/chocolatey/essentials.config -y
    ```
 
+## Setup Windows workspace using Scoop
+
+1. Install Scoop following [instructions](https://github.com/ScoopInstaller/Install#installation).
+2. Run
+
+   ```bash
+   scoop install git
+   gc buckets.txt |% { scoop bucket add $_ }
+   gc essentials.txt |% { scoop install $_ }
+   ```
+
+Search for apps on <https://scoop.sh>.
+
 ## Setup Mac workspace using Brew
 
 1. Install Brew by running
