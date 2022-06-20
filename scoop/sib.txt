@@ -1,5 +1,6 @@
 dos2unix
 element
+gpg
 oraclejre8
 jitsi-meet
 microsoft-teams
