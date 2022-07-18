@@ -56,5 +56,11 @@ Search for apps on <https://scoop.sh>.
 
 ### Install extensions
 
+#### Unix
+
 1. If you haven't done it yet, add the `code` command to the path.
 2. Run `cat vscode_extensions.txt | xargs -L 1 code --install-extension`.
+
+#### Windows
+
+Run `gc vscode_extensions.txt |% { code --install-extension $_ }`
