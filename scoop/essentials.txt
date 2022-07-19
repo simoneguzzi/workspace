@@ -1,5 +1,6 @@
 bitwarden
 firefox
+foxit-pdf-reader
 git
 pyenv
 python
