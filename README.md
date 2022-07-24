@@ -24,6 +24,13 @@
 
 Search for apps on <https://scoop.sh>.
 
+## Install Docker on Windows
+
+1. Enable **WSL 2** by running `wsl --install` - requires privileged user.
+2. Set **WSL 2** as default version by running` wsl --set-default-version 2`.
+3. From the start menu, run the **Ubunt** app.
+4. Follow [installation instructions](https://docs.docker.com/desktop/install/windows-install/#install-docker-desktop-on-windows).
+
 ## Setup Mac workspace using Brew
 
 1. Install Brew by running
