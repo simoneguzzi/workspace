@@ -7,3 +7,4 @@ microsoft-teams
 nvm
 vagrant
 virtualbox-np
+zoom

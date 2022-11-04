@@ -4,3 +4,4 @@ jitsi-meet
 onedrive
 vagrant
 virtualbox
+zoom
