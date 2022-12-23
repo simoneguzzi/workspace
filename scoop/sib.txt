@@ -3,7 +3,6 @@ element
 gpg
 oraclejre8
 jitsi-meet
-microsoft-teams
 nvm
 vagrant
 virtualbox-np

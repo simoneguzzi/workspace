@@ -1,5 +1,4 @@
 oraclejre8
-microsoft-teams
 virtualbox-np
 vlc
 zoom
