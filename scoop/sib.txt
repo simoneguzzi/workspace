@@ -4,6 +4,7 @@ gpg
 oraclejre8
 jitsi-meet
 nvm
+rustup
 vagrant
 virtualbox-np
 zoom

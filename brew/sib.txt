@@ -3,4 +3,5 @@ gitlab-runner
 gpg
 nvm
 pyenv
+rustup-init
 tox
