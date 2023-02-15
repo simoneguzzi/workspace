@@ -10,9 +10,11 @@ dbaeumer.vscode-eslint
 donjayamanne.githistory
 esbenp.prettier-vscode
 foxundermoon.shell-format
+ms-python.isort
 ms-python.python
 ms-python.vscode-pylance
 qwtel.sqlite-viewer
+rust-lang.rust-analyzer
 stkb.rewrap
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-italian

@@ -1,6 +1,8 @@
-git-secrets
+ca-certificates
+git-secret
 gitlab-runner
 gpg
+nettle
 nvm
 pyenv
 rustup-init
