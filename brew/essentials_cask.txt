@@ -2,3 +2,4 @@ bitwarden
 firefox
 rectangle
 visual-studio-code
+bass
