@@ -1,5 +1,8 @@
+alacritty
 bitwarden
 firefox
+font-jetbrainsmono-nerd-font
 rectangle
 visual-studio-code
 bass
+
