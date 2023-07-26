@@ -10,7 +10,9 @@ dbaeumer.vscode-eslint
 donjayamanne.githistory
 esbenp.prettier-vscode
 foxundermoon.shell-format
+ms-python.black-formatter
 ms-python.isort
+ms-python.pylint
 ms-python.python
 ms-python.vscode-pylance
 qwtel.sqlite-viewer

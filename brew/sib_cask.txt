@@ -2,6 +2,7 @@ asana
 element
 jitsi-meet
 onedrive
+slack
 vagrant
 virtualbox
 zoom
